@@ -1,0 +1,40 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/pedro/novatel_lar_ws/devel/include",
+        "/home/pedro/novatel_ws/devel/include",
+        "/home/pedro/catkin_ws/devel/include",
+        "/opt/ros/kinetic/include",
+        "/home/pedro/novatel_lar_ws/src/gps_umd/gps_common/include",
+        "/home/pedro/novatel_lar_ws/src/mapviz/mapviz/include",
+        "/home/pedro/novatel_lar_ws/src/mapviz/mapviz_plugins/include",
+        "/home/pedro/novatel_lar_ws/src/marti_common/marti_data_structures/include",
+        "/home/pedro/novatel_lar_ws/src/mapviz/multires_image/include",
+        "/home/pedro/novatel_lar_ws/src/novatel_gps_driver/novatel_gps_driver/include",
+        "/home/pedro/novatel_lar_ws/src/serial/include",
+        "/home/pedro/novatel_lar_ws/src/marti_common/swri_console_util/include",
+        "/home/pedro/novatel_lar_ws/src/marti_common/swri_dbw_interface/include",
+        "/home/pedro/novatel_lar_ws/src/marti_common/swri_geometry_util/include",
+        "/home/pedro/novatel_lar_ws/src/marti_common/swri_image_util/include",
+        "/home/pedro/novatel_lar_ws/src/marti_common/swri_math_util/include",
+        "/home/pedro/novatel_lar_ws/src/marti_common/swri_nodelet/include",
+        "/home/pedro/novatel_lar_ws/src/marti_common/swri_opencv_util/include",
+        "/home/pedro/novatel_lar_ws/src/marti_common/swri_roscpp/include",
+        "/home/pedro/novatel_lar_ws/src/marti_common/swri_route_util/include",
+        "/home/pedro/novatel_lar_ws/src/marti_common/swri_serial_util/include",
+        "/home/pedro/novatel_lar_ws/src/marti_common/swri_string_util/include",
+        "/home/pedro/novatel_lar_ws/src/marti_common/swri_system_util/include",
+        "/home/pedro/novatel_lar_ws/src/marti_common/swri_transform_util/include",
+        "/home/pedro/novatel_lar_ws/src/marti_common/swri_yaml_util/include",
+        "/home/pedro/novatel_lar_ws/src/mapviz/tile_map/include",
+        "/usr/include"
+      ],
+      "name": "Linux"
+    }
+  ]
+}
