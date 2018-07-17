@@ -1,0 +1,62 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/atlascar2/catkin_ws/devel/include",
+        "/opt/ros/kinetic/include",
+        "/home/atlascar2/catkin_ws/src/dependencies/lartk5/bases/atlascar_base/include",
+        "/home/atlascar2/catkin_ws/src/calibration_gui_v2/calibration_gui/calibration_gui/include",
+        "/home/atlascar2/catkin_ws/src/dependencies/lartk5/bases/atlasmv_base/include",
+        "/home/atlascar2/catkin_ws/src/dependencies/colormap/include",
+        "/home/atlascar2/catkin_ws/src/database/include",
+        "/home/atlascar2/catkin_ws/src/drivers/driver_common-indigo-devel/driver_base/include",
+        "/home/atlascar2/catkin_ws/src/free_space_detection/include",
+        "/home/atlascar2/catkin_ws/src/dependencies/gps_umd/gps_common/include",
+        "/home/atlascar2/catkin_ws/src/dependencies/lartk5/utils/hitec5980sg/include",
+        "/home/atlascar2/catkin_ws/src/dependencies/jsoncpp/include",
+        "/home/atlascar2/catkin_ws/src/dependencies/lartk5/utils/kfilter/include",
+        "/home/atlascar2/catkin_ws/src/dependencies/lidar_segmentation/include",
+        "/home/atlascar2/catkin_ws/src/drivers/rcprg_laser_drivers/lms1xx/include",
+        "/home/atlascar2/catkin_ws/src/mapviz/mapviz/include",
+        "/home/atlascar2/catkin_ws/src/mapviz/mapviz_plugins/include",
+        "/home/atlascar2/catkin_ws/src/dependencies/marti_common/marti_data_structures/include",
+        "/home/atlascar2/catkin_ws/src/dependencies/lartk5/perception/planarobstacles/mtt/include",
+        "/home/atlascar2/catkin_ws/src/mapviz/multires_image/include",
+        "/home/atlascar2/catkin_ws/src/drivers/novatel_gps_driver/novatel_gps_driver/include",
+        "/home/atlascar2/catkin_ws/src/orientation_module/include",
+        "/home/atlascar2/catkin_ws/src/drivers/pointgrey_camera_driver-master/pointgrey_camera_driver/include",
+        "/home/atlascar2/catkin_ws/src/dependencies/polyline/include",
+        "/home/atlascar2/catkin_ws/src/road_reconstruction/include",
+        "/home/atlascar2/catkin_ws/src/dependencies/serial/include",
+        "/home/atlascar2/catkin_ws/src/dependencies/marti_common/swri_console_util/include",
+        "/home/atlascar2/catkin_ws/src/dependencies/marti_common/swri_dbw_interface/include",
+        "/home/atlascar2/catkin_ws/src/dependencies/marti_common/swri_geometry_util/include",
+        "/home/atlascar2/catkin_ws/src/dependencies/marti_common/swri_image_util/include",
+        "/home/atlascar2/catkin_ws/src/dependencies/marti_common/swri_math_util/include",
+        "/home/atlascar2/catkin_ws/src/dependencies/marti_common/swri_nodelet/include",
+        "/home/atlascar2/catkin_ws/src/dependencies/marti_common/swri_opencv_util/include",
+        "/home/atlascar2/catkin_ws/src/dependencies/marti_common/swri_roscpp/include",
+        "/home/atlascar2/catkin_ws/src/dependencies/marti_common/swri_route_util/include",
+        "/home/atlascar2/catkin_ws/src/dependencies/marti_common/swri_serial_util/include",
+        "/home/atlascar2/catkin_ws/src/dependencies/marti_common/swri_string_util/include",
+        "/home/atlascar2/catkin_ws/src/dependencies/marti_common/swri_system_util/include",
+        "/home/atlascar2/catkin_ws/src/dependencies/marti_common/swri_transform_util/include",
+        "/home/atlascar2/catkin_ws/src/dependencies/marti_common/swri_yaml_util/include",
+        "/home/atlascar2/catkin_ws/src/dependencies/lartk5/utils/tcp_client/include",
+        "/home/atlascar2/catkin_ws/src/mapviz/tile_map/include",
+        "/home/atlascar2/catkin_ws/src/drivers/driver_common-indigo-devel/timestamp_tools/include",
+        "/home/atlascar2/catkin_ws/src/dependencies/lartk5/utils/topic_priority/include",
+        "/home/atlascar2/catkin_ws/src/trajectory_planner/include",
+        "/home/atlascar2/catkin_ws/src/drivers/velodyne-master/velodyne_driver/include",
+        "/home/atlascar2/catkin_ws/src/drivers/velodyne-master/velodyne_pointcloud/include",
+        "/home/atlascar2/catkin_ws/src/dependencies/voxel_grid/include",
+        "/usr/include"
+      ],
+      "name": "Linux"
+    }
+  ]
+}
